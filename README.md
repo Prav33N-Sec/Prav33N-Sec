@@ -18,20 +18,20 @@ Feel free to check out my repos or hit me up if you’re into breaking (and fixi
 # 📊 GitHub Stats:
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=praveenkavi5&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false" height="150" alt="stats graph"  />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=praveenkavi5&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false" height="150" alt="languages graph"  />
+  <img src="https://github-readme-stats.vercel.app/api?username=Prav33N-Sec&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false" height="150" alt="stats graph"  />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=Prav33N-Sec&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false" height="150" alt="languages graph"  />
 <br/>
   
-![](https://nirzak-streak-stats.vercel.app/?user=praveenkavi5&theme=dark&hide_border=false)<br/>
-![](https://github-contributor-stats.vercel.app/api?username=praveenkavi5&limit=5&theme=dark&combine_all_yearly_contributions=true)
+![](https://nirzak-streak-stats.vercel.app/?user=Prav33N-Sec&theme=dark&hide_border=false)<br/>
+![](https://github-contributor-stats.vercel.app/api?username=Prav33N-Sec&limit=5&theme=dark&combine_all_yearly_contributions=true)
 
 </div>
 
 ## 🏆 GitHub Trophies
-![](https://github-profile-trophy.vercel.app/?username=praveenkavi5&theme=radical&no-frame=false&no-bg=true&margin-w=4)
+![](https://github-profile-trophy.vercel.app/?username=Prav33N-Sec&theme=radical&no-frame=false&no-bg=true&margin-w=4)
 
 
-[![](https://visitcount.itsvg.in/api?id=praveenkavi5&icon=0&color=0)](https://visitcount.itsvg.in)
+[![](https://visitcount.itsvg.in/api?id=Prav33N-Sec&icon=0&color=0)](https://visitcount.itsvg.in)
 
   ## 💰 You can help me by Donating
   [![BuyMeACoffee](https://img.shields.io/badge/Buy%20Me%20a%20Coffee-ffdd00?style=for-the-badge&logo=buy-me-a-coffee&logoColor=black)](https://buymeacoffee.com/praveenkavinda) 
